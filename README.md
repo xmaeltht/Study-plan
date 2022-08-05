@@ -27,4 +27,4 @@
     * Bash Script on centos or ubuntu (to Create user, update package, and deploy lambstack)
     * Basic linux command line
 
-**Note** `There is no oder to go about this you pick one and you make a check list about what you coverd alreay`
+**Note** `There is no oder to go about this you pick one and you make a check list about what you covered alreay`
